@@ -163,6 +163,7 @@ pip-log.txt
 .DS_Store
 
 
-# diretórios específicos
+# diretórios e arquivos específicos do projeto
 logs/
 arquivos/
+.htaccess
